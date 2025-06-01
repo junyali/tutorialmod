@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_hackite": {
+      "conditions": {
+        "items": [
+          {
+            "items": "tutorialmod:raw_hackite"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "tutorialmod:hackite_from_smelting_raw_hackite"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_raw_hackite"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "tutorialmod:hackite_from_smelting_raw_hackite"
+    ]
+  }
+}

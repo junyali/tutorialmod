@@ -1,0 +1,4 @@
+// 1.21.1	2025-06-01T15:53:44.0760223	Loot Tables
+fdb23332dd9e80dc7adebc38ce950f4e4358716f data/tutorialmod/loot_table/blocks/deepslate_hackite_ore.json
+f6dcb38f9640bd53c818db7ab801121ff1436b24 data/tutorialmod/loot_table/blocks/hackite_block.json
+efcc9892fc8b2466aa489b6b06d63cf6331e5bf3 data/tutorialmod/loot_table/blocks/hackite_ore.json

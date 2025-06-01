@@ -1,0 +1,10 @@
+// 1.21.1	2025-06-01T15:53:44.0810216	Block States: tutorialmod
+289b71727bb13690913a8a9b85e4c45ae97a7cdf assets/tutorialmod/blockstates/deepslate_hackite_ore.json
+b678d159419b3ea2dd66c03365d96c62496d1894 assets/tutorialmod/blockstates/hackite_block.json
+7033ad04064c358d5b2564e3c99c8d7f5ad8b963 assets/tutorialmod/blockstates/hackite_ore.json
+936a4b77f14c6362dec2ad18f394c56df3893049 assets/tutorialmod/models/block/deepslate_hackite_ore.json
+ec2a6e89284422323d7ca048375286d80decbc8b assets/tutorialmod/models/block/hackite_block.json
+d207beabf214eb68a3029aa30bb90656baa17d20 assets/tutorialmod/models/block/hackite_ore.json
+ae5278d6d4e5ec71fc45137193da843a6c03d19f assets/tutorialmod/models/item/deepslate_hackite_ore.json
+08777dd39c36096d92b6a3dca94cad37fa2a12f2 assets/tutorialmod/models/item/hackite_block.json
+422aad4f5be14b82ae68e853b5bf743f4c5f2133 assets/tutorialmod/models/item/hackite_ore.json

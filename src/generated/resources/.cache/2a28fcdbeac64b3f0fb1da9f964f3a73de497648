@@ -1,0 +1,6 @@
+// 1.21.1	2025-06-01T15:53:44.0810216	Tags for minecraft:item mod id tutorialmod
+31db822f4e5d4add79d3323d8151ba0d719e08ea data/minecraft/tags/item/axes.json
+4e7cadec5f062398d66d037b83e04e4d11c537d5 data/minecraft/tags/item/hoes.json
+4328cbe09690901f11ce25e4d2faa36e37762385 data/minecraft/tags/item/pickaxes.json
+dfa8c53412b1238a9c1d5756c89e16aabccc4905 data/minecraft/tags/item/shovels.json
+00f3dcb0f29dd56b4ddaf5d5065df8804c92ddc8 data/minecraft/tags/item/swords.json

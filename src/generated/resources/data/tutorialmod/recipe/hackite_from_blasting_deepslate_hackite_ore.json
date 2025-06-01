@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "hackite",
+  "ingredient": {
+    "item": "tutorialmod:deepslate_hackite_ore"
+  },
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:hackite"
+  }
+}

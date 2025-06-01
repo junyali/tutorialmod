@@ -1,0 +1,14 @@
+{
+  "item.tutorialmod.hackite": "Hackite",
+  "item.tutorialmod.raw_hackite": "Raw Hackite",
+
+  "item.tutorialmod.hackite_sword": "Hackite Sword",
+  "item.tutorialmod.hackite_pickaxe": "Hackite Pickaxe",
+  "item.tutorialmod.hackite_axe": "Hackite Axe",
+  "item.tutorialmod.hackite_shovel": "Hackite Shovel",
+  "item.tutorialmod.hackite_hoe": "Hackite Hoe",
+
+  "block.tutorialmod.hackite_block": "Hackite Block",
+  "block.tutorialmod.hackite_ore": "Hackite Ore",
+  "block.tutorialmod.deepslate_hackite_ore": "Deepslate Hackite Ore"
+}

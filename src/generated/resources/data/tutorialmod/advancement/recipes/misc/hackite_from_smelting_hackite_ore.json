@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_hackite_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": "tutorialmod:hackite_ore"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "tutorialmod:hackite_from_smelting_hackite_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_hackite_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "tutorialmod:hackite_from_smelting_hackite_ore"
+    ]
+  }
+}
